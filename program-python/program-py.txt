@@ -1,0 +1,6 @@
+program PlotON.py merupakan progra untuk mengeplot grafik turunnya temperatur untuk mendapatkan kondisi parameter keadaan termal ruangan
+program calc_pmv_ppd merupakan program untuk menghitung PMV dan PPD dari ruangan
+program TrainingANN digunakan untuk melaukan training pertama model ANN dari database
+program TrainingANN_V2 digunakan untuk melakukan training lanjutan apabila training pertama belum mendapatkan akurasi yang baik
+program HitungDCFIX merupakan program untuk Menghitung DC dari model ANN hasil training
+
