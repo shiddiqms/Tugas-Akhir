@@ -1,0 +1,12 @@
+disini terdapat 2 program untuk sensor
+
+// Sensor DHT 22 
+
+output dht 22 dihubungkan ke kaki D1 wemos d1 mini atau GPIO 5
+LED IR dihuhbungkan ke kaki D5 wemos d1 mini atau GPIO 14
+
+// Sensor PZEM-004T
+
+kaki RX -> D1 atau GPIO 5
+kaki TX -> D2 atau GPIO 4
+
