@@ -2,8 +2,8 @@
 Melakukan efisiensi AC (air conditioner) dengan menggunakan PMV (predicted mean vote)berbasis teknologi IoT (internet of things)
 
 Proyek tugas akhir ini sudah dapat :
-> Melakukan efisiensi kontrol AC dengan berfokus pada kenyamanan termal (PMV)
-> Melakukan kontrol AC dengan berfokus pada jumlah energy yang ingin disaving dengan mengatur DC (duty cycle) dari AC
+1. Melakukan efisiensi kontrol AC dengan berfokus pada kenyamanan termal (PMV)
+2. Melakukan kontrol AC dengan berfokus pada jumlah energy yang ingin disaving dengan mengatur DC (duty cycle) dari AC
 
 File Terdiri dari file node-red, grafana dan file python
 
