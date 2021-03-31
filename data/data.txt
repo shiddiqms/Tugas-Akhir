@@ -1,3 +1,5 @@
 Berikut ialah data training model ANN dan model ANN hasil training 
 
 Selain data itu yang digunakan dalam kontrol terdapat juga data yang cukup menarik yaitu adanya hubungan antara okupansi (umlah orang di dalam ruangan) terhadap nilai parameter keadaan termal (disini digunakan istilah RC) terlihat pada gambar
+
+Untuk data yang lebih jelas dan Buku TA (skripsi) dapat menghubungi muhammadshiddiq71@gmail.com
